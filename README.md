@@ -12,7 +12,7 @@ This repository contains the codebase for **SansGPT**, a generative pre-trained 
 ---
 
 ## Pre-Trained Corpus
-You can download the pre-trained Sanskrit text corpus [here](https://drive.google.com/file/d/18SrpFJCbrDyR5420RYMoHc0n37a_6D4h/view?usp=sharing).
+You can download the aggregated and cleaned Sanskrit text corpus for pre-training [here](https://drive.google.com/file/d/18SrpFJCbrDyR5420RYMoHc0n37a_6D4h/view?usp=sharing).
 
 ---
 
