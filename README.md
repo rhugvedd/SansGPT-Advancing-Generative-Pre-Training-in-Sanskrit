@@ -1,7 +1,3 @@
-Here's the updated README with the link to the pre-trained corpus added:
-
----
-
 # SansGPT: Advancing Generative Pre-Training in Sanskrit
 
 This repository contains the codebase for **SansGPT**, a generative pre-trained model for Sanskrit. The project includes tools for pre-training and fine-tuning the model on tasks like Semantic Analogy Prediction and Simile Element Extraction.
@@ -17,6 +13,11 @@ This repository contains the codebase for **SansGPT**, a generative pre-trained 
 
 ## Pre-Trained Corpus
 You can download the pre-trained Sanskrit text corpus [here](https://drive.google.com/file/d/18SrpFJCbrDyR5420RYMoHc0n37a_6D4h/view?usp=sharing).
+
+---
+
+## Simile Element Extraction Dataset
+You can access the Simile Element Extraction Dataset [here](https://docs.google.com/spreadsheets/d/1QIR2CKXUyk5ZQ8I1vMx6d-6HJEqetqfB/edit?usp=sharing&ouid=103564942194185380640&rtpof=true&sd=true).
 
 ---
 
@@ -43,7 +44,3 @@ You can download the pre-trained Sanskrit text corpus [here](https://drive.googl
 
 ### Checkpoint and Utility
 - **save_checkpoint_info.py**: Extracts training metrics and saves them for analysis.  
-
---- 
-
-This addition makes the README more user-friendly by providing direct access to the pre-trained corpus.
