@@ -21,6 +21,11 @@ You can access the Simile Element Extraction Dataset [here](https://docs.google.
 
 ---
 
+## Pre-Trained and Fine-tuned Models
+You can access the pre-trained and fine-tuned models of the SansGPT series at the "SansGPT v1.0.0 Release" under the Releases Section.
+
+---
+
 ## File Descriptions
 
 ### Tokenization and Data Processing
