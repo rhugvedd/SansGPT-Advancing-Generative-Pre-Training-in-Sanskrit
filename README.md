@@ -2,6 +2,8 @@
 
 This repository contains the codebase for **SansGPT**, a generative pre-trained model for Sanskrit. The project includes tools for pre-training and fine-tuning the model on tasks like Semantic Analogy Prediction and Simile Element Extraction.
 
+**To read the paper:** [Click here](https://aclanthology.org/2024.icon-1.50/)
+
 ---
 
 ## Usage
