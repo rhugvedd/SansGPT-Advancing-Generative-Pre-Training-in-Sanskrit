@@ -28,6 +28,19 @@ You can access the pre-trained and fine-tuned models of the SansGPT series at th
 
 ---
 
+## Tokenizer Files
+
+SansGPT uses a custom **Byte Pair Encoding (BPE)** tokenizer.  
+Pre-trained tokenizer files (Vocab and MergeInfo `.pkl` files) are provided for multiple vocabulary sizes:
+
+**8,000 · 12,000 · 16,000 · 24,000 · 28,000 · 33,000**
+
+For all released model checkpoints (pre-trained and fine-tuned), the tokenizer with **12,000 vocabulary size** was used during training and must be used for inference to ensure token ID compatibility with the model weights.
+
+The tokenizer files can be downloaded from the **“SansGPT v1.0.0” Release** under the Releases section.
+
+---
+
 ## File Descriptions
 
 ### Tokenization and Data Processing
